@@ -1,4 +1,4 @@
 # Picture-for-Typora
 A picture depository for Typora
 
-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
+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
